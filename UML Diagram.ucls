@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.1.8" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true">  
+  <class id="1" language="java" name="pt.iscte.poo.instalacao.Instalacao" 
+    project="TFPOO2015_JoaoCroca_60189_RodrigoRocha_60130" 
+    file="/TFPOO2015_JoaoCroca_60189_RodrigoRocha_60130/src/pt/iscte/poo/instalacao/Instalacao.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="333" width="250" x="1058" y="-37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="pt.iscte.poo.instalacao.aparelhos.Lampada" 
+    project="TFPOO2015_JoaoCroca_60189_RodrigoRocha_60130" 
+    file="/TFPOO2015_JoaoCroca_60189_RodrigoRocha_60130/src/pt/iscte/poo/instalacao/aparelhos/Lampada.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="147" x="537" y="1573"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="pt.iscte.poo.instalacao.aparelhos.Frigorifico" 
+    project="TFPOO2015_JoaoCroca_60189_RodrigoRocha_60130" 
+    file="/TFPOO2015_JoaoCroca_60189_RodrigoRocha_60130/src/pt/iscte/poo/instalacao/aparelhos/Frigorifico.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="147" x="724" y="1573"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="pt.iscte.poo.instalacao.Aparelho" 
+    project="TFPOO2015_JoaoCroca_60189_RodrigoRocha_60130" 
+    file="/TFPOO2015_JoaoCroca_60189_RodrigoRocha_60130/src/pt/iscte/poo/instalacao/Aparelho.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="387" width="207" x="724" y="773"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="pt.iscte.poo.instalacao.Tomada" 
+    project="TFPOO2015_JoaoCroca_60189_RodrigoRocha_60130" 
+    file="/TFPOO2015_JoaoCroca_60189_RodrigoRocha_60130/src/pt/iscte/poo/instalacao/Tomada.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="225" width="186" x="1098" y="1200"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="pt.iscte.poo.instalacao.aparelhos.Torradeira" 
+    project="TFPOO2015_JoaoCroca_60189_RodrigoRocha_60130" 
+    file="/TFPOO2015_JoaoCroca_60189_RodrigoRocha_60130/src/pt/iscte/poo/instalacao/aparelhos/Torradeira.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="147" x="911" y="1573"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="pt.iscte.poo.instalacao.Relogio" 
+    project="TFPOO2015_JoaoCroca_60189_RodrigoRocha_60130" 
+    file="/TFPOO2015_JoaoCroca_60189_RodrigoRocha_60130/src/pt/iscte/poo/instalacao/Relogio.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="171" width="157" x="267" y="-37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="pt.iscte.poo.instalacao.aparelhos.Computador" 
+    project="TFPOO2015_JoaoCroca_60189_RodrigoRocha_60130" 
+    file="/TFPOO2015_JoaoCroca_60189_RodrigoRocha_60130/src/pt/iscte/poo/instalacao/aparelhos/Computador.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="155" x="-316" y="1573"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="pt.iscte.poo.instalacao.aparelhos.MaquinaLavar" 
+    project="TFPOO2015_JoaoCroca_60189_RodrigoRocha_60130" 
+    file="/TFPOO2015_JoaoCroca_60189_RodrigoRocha_60130/src/pt/iscte/poo/instalacao/aparelhos/MaquinaLavar.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="261" width="207" x="-121" y="1573"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="pt.iscte.poo.instalacao.aparelhos.AparelhoPotenciaVariavel" 
+    project="TFPOO2015_JoaoCroca_60189_RodrigoRocha_60130" 
+    file="/TFPOO2015_JoaoCroca_60189_RodrigoRocha_60130/src/pt/iscte/poo/instalacao/aparelhos/AparelhoPotenciaVariavel.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="333" width="221" x="126" y="1200"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="pt.iscte.poo.instalacao.aparelhos.MicroOndas" 
+    project="TFPOO2015_JoaoCroca_60189_RodrigoRocha_60130" 
+    file="/TFPOO2015_JoaoCroca_60189_RodrigoRocha_60130/src/pt/iscte/poo/instalacao/aparelhos/MicroOndas.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="155" x="126" y="1573"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="12" language="java" name="pt.iscte.poo.instalacao.Ligavel" 
+    project="TFPOO2015_JoaoCroca_60189_RodrigoRocha_60130" 
+    file="/TFPOO2015_JoaoCroca_60189_RodrigoRocha_60130/src/pt/iscte/poo/instalacao/Ligavel.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="171" width="146" x="1098" y="1573"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="13" language="java" name="pt.iscte.poo.instalacao.aparelhos.lampadaVariavel" 
+    project="TFPOO2015_JoaoCroca_60189_RodrigoRocha_60130" 
+    file="/TFPOO2015_JoaoCroca_60189_RodrigoRocha_60130/src/pt/iscte/poo/instalacao/aparelhos/lampadaVariavel.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="176" x="321" y="1573"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="pt.iscte.poo.instalacao.aparelhos.Tripla" 
+    project="TFPOO2015_JoaoCroca_60189_RodrigoRocha_60130" 
+    file="/TFPOO2015_JoaoCroca_60189_RodrigoRocha_60130/src/pt/iscte/poo/instalacao/aparelhos/Tripla.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="387" width="204" x="1058" y="346"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="15" language="java" name="pt.iscte.poo.instalacao.Linha" 
+    project="TFPOO2015_JoaoCroca_60189_RodrigoRocha_60130" 
+    file="/TFPOO2015_JoaoCroca_60189_RodrigoRocha_60130/src/pt/iscte/poo/instalacao/Linha.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="189" width="189" x="1129" y="773"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="16" language="java" name="pt.iscte.poo.instalacao.aparelhos.AparelhoPotenciaFixa" 
+    project="TFPOO2015_JoaoCroca_60189_RodrigoRocha_60130" 
+    file="/TFPOO2015_JoaoCroca_60189_RodrigoRocha_60130/src/pt/iscte/poo/instalacao/aparelhos/AparelhoPotenciaFixa.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="189" width="202" x="724" y="1200"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <association id="17">    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="18" name="instance"/>      
+      <multiplicity id="19" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="20">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="10"/>  
+  </generalization>  
+  <association id="21">    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="22" name="ligavel"/>      
+      <multiplicity id="23" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="12" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="24">    
+    <end type="SOURCE" refId="14" navigable="false">      
+      <attribute id="25" name="linha"/>      
+      <multiplicity id="26" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="15" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="27">    
+    <bendpoint x="1088" y="773"/>    
+    <end type="SOURCE" refId="14" navigable="false">      
+      <attribute id="28" name="tomadas"/>      
+      <multiplicity id="29" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="5" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="30">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="16"/>  
+  </generalization>  
+  <association id="31">    
+    <bendpoint x="1292" y="346"/>    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="32" name="linhas"/>      
+      <multiplicity id="33" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="15" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="34">    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="35" name="tripla"/>      
+      <multiplicity id="36" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="14" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="37">    
+    <end type="SOURCE" refId="15" navigable="false">      
+      <attribute id="38" name="tomadas"/>      
+      <multiplicity id="39" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="5" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="40">    
+    <bendpoint x="1067" y="773"/>    
+    <bendpoint x="1067" y="1200"/>    
+    <end type="SOURCE" refId="14"/>    
+    <end type="TARGET" refId="12"/>  
+  </realization>  
+  <generalization id="41">    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="10"/>  
+  </generalization>  
+  <generalization id="42">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="4"/>  
+  </generalization>  
+  <realization id="43">    
+    <bendpoint x="956" y="1200"/>    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="12"/>  
+  </realization>  
+  <generalization id="44">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="16"/>  
+  </generalization>  
+  <generalization id="45">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="16"/>  
+  </generalization>  
+  <generalization id="46">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="10"/>  
+  </generalization>  
+  <generalization id="47">    
+    <end type="SOURCE" refId="16"/>    
+    <end type="TARGET" refId="4"/>  
+  </generalization>  
+  <generalization id="48">    
+    <end type="SOURCE" refId="13"/>    
+    <end type="TARGET" refId="10"/>  
+  </generalization>  
+  <association id="49">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="50" name="instance"/>      
+      <multiplicity id="51" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="7" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
